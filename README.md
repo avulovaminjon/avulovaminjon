@@ -1,4 +1,4 @@
-#Avulov Aminjon
+# About me:
 - 👋 Hi, I’m Aminjon Avulov
 - 👀 I’m very interested in programming ...
 - 🌱 I'm learning full stack app now 
